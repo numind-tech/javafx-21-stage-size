@@ -1,6 +1,6 @@
 To run the program, run: `mvn javafx:run`
 
-behavior: the opoup opening when clicking on the button has a size of 40x40 when it has za size of 800x800 with javafx 20.x
+behavior: the popup opening when clicking on the button has a size of 40x40 with javafx 21 when it has a size of 800x800 with javafx 20.x
 
 was tested with the following version of gtk:
 
